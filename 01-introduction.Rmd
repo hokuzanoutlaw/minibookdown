@@ -1,0 +1,9 @@
+# Introduction
+
+In this chapter we will examine reasons why data analysis is an important skill for social science research.
+
+There are several reasons:
+
+* Reason 1
+* Reason 2
+* Reason 3
