@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# Welcome to this open textbook
 
-Hello!!
+This textbook is collaborative project of faculty and librarians at Miskatonic Unversity. It is available under the CC BY 4.0 license.
